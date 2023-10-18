@@ -1,0 +1,6 @@
+dependencies:
+- name: dynatrace-operator
+  repository: https://raw.githubusercontent.com/Dynatrace/dynatrace-operator/main/config/helm/repos/stable
+  version: 0.13.0
+digest: sha256:653721ac78d95afdb2d067f3d5b8f7f4e26dac5009098f1ceb33545ca5f41ff5
+generated: "2023-09-12T14:57:05.971671963+05:30"
